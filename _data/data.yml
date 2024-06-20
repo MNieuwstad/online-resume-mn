@@ -109,9 +109,11 @@ experience:
         Hierna kreeg was ik verantwoordelijk om het "Stemmen voor Verkiezingen" team te leiden.
         
         + Technical lead van het "CO2 compensatie calculator" team. Ik was verantwoordelijk voor het doorontwikkelen en het onderhouden van de API en website. 
+          
           Tech stack: C#, .NET, Razor, Azure, Git, CI/CD, Docker, SQL, Elasticsearch/kibana.
         + Technical lead voor het "Stemmen voor Verkiezingen" project. Ik was verantwoordelijk voor dit greenfield-project met een vraag naar een robuuste oplossing om stemmen te tellen voor meerdere verkiezingen. 
           De klant vroeg naar de meest pragmatische en goedkoop draaiende oplossing. 
+          
           Tech stack: C#, .NET, PHP (wordpress plugin), Ansible (linux host), Cloudflare.         
 
     - company: Software developer
@@ -133,6 +135,7 @@ experience:
         
         + Software developer voor een openbaar vervoersbedrijf in Amsterdam. In het begin was ik ontwikkelaar voor de doorontwikkeling van de website en mobiele applicatie. 
           Daarna werd ik verantwoordelijk voor het migreren en beter maken van de bestaande architectuur.
+        
           Tech stack: C#, .NET, Terraform, Azure, Typescript, Git, CI/CD, Vue.js, React Native, Docker, JavaScript, Contentful
 
 project:
