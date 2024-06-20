@@ -83,11 +83,13 @@ profile:
   order: 1
   title: Profile
   description: |
-    Ik ben een software developer met meer dan 5 jaar ervaring, en heb met diverse tegnologieen en gebieden gewerkt. De meeste ervaring heb ik met het Microsoft ecosysteem. 
-    Tegewoordig richt ik mij voornamelijk op de backend kant van software ontwikkeling, in C# applicaties onderhouden door terraform, en dit gaat vaak gepaard met devops. Toch ben ik zeker niet onbekend met de frond-end en zou mij zelf beschrijven als een full stack developer.
-    Ik werk nu als consultant, en ben veel op kantoor. Want ik vind klantcontact belangrijk en leuk.
+    Ik ben een software developer met meer dan 3 jaar professionele ervaring en heb met diverse technologieën en gebieden gewerkt. De meeste ervaring heb ik met het Microsoft-ecosysteem.
+    Tegenwoordig richt ik me voornamelijk op de backend-kant van softwareontwikkeling, in C# applicaties ontwikkelen. 
+    Toch ben ik zeker niet onbekend met de front-end en zou mezelf beschrijven als een full-stack ontwikkelaar.
+    Ik werk nu als consultant en ben veel op kantoor. Want ik vind klantcontact belangrijk en leuk.
     
-    Naast het “spelen” als software engineer speel ik ook volleybal. Hier ben ik vijf avonden in de week zoet mee. Zowel in de zaal als op het strand speel ik eredivisie. Om dit allemaal te kunnen doen moet ik iets eerder uit bed dan de gemiddelde ontwikkelaar. Er is dan nog genoeg tijd in de dag om beide passies 100% te beoefenen!
+    Naast het "spelen" als software-engineer speel ik ook volleybal. Eerst besteedde ik vijf avonden in de week aan deze sport, zowel in de zaal als op het strand, op eredivisieniveau. 
+    Onlangs ben ik echter overgestapt naar slechts twee avonden beachvolleybal. Nu is dan nog genoeg tijd om beide passies 100% te beoefenen!
 
 experience:
   show: true
@@ -97,20 +99,20 @@ experience:
 
   items:
     - company: Technical lead
-      link: 
+      link:
       tags:
       date: JUN 2022 - heden
-      role: 
+      role:
       location: Infi, Amsterdamn
       description: |
-        Als technical lead ben ik verantwoordelijk voor het gehele applicatielandschap. In juni 2022 werd ik TL van het doorontwikkelen van de CO2 calculator. Naast mijn technische verantwoordelijkheden neem ik ook taken op mij zoals projectmanagement.
+        Als Technical lead ben ik verantwoordelijk voor het gehele applicatielandschap. In juni 2022 werd ik TL voor de doorontwikkeling van de CO2-calculator. 
+        Hierna kreeg was ik verantwoordelijk om het "Stemmen voor Verkiezingen" team te leiden.
         
-        + Techinal lead voor "Verkiezingen intergratie" project. Ik was verantwoordelijk voor dit green field project met een vraag naar robuste oplossing om stemmen te tellen voor meedere verkiezingen. Klant vroeg naar de meest pragmatische en goedkoop draaiende oplossing.
-        
-          Tech stack: C#, .NET, PHP (wordpress plugin), Ansible (linux host), Cloudflare
-        + Techinal lead van het "CO2 compensatie calculator" team. Ik was verantwoordelijk voor ging het om het doorontwikkelen en het onderhouden van de api en website. 
-        
-          Tech stack: C#, .NET, Razor, Azure, Git, CI/CD, Docker, SQL, Elasticsearch/kibana
+        + Technical lead van het "CO2 compensatie calculator" team. Ik was verantwoordelijk voor het doorontwikkelen en het onderhouden van de API en website. 
+          Tech stack: C#, .NET, Razor, Azure, Git, CI/CD, Docker, SQL, Elasticsearch/kibana.
+        + Technical lead voor het "Stemmen voor Verkiezingen" project. Ik was verantwoordelijk voor dit greenfield-project met een vraag naar een robuuste oplossing om
+          stemmen te tellen voor meerdere verkiezingen. De klant vroeg naar de meest pragmatische en goedkoop draaiende oplossing. 
+          Tech stack: C#, .NET, PHP (wordpress plugin), Ansible (linux host), Cloudflare.         
 
     - company: Software developer
       link:
@@ -119,15 +121,19 @@ experience:
       role:
       location: Infi, Amsterdamn
       description: |
-        + Sofware developer automatiseren van auto lease straat, intake en controle. Het ging hier om het ontwikkelen van een straat om te checken of personen een auto mochten leasen. Het huidige process moest geautomatiseerd worden.
+        + Software developer voor het automatiseren van de auto lease straat, intake en controle. 
+          Het ging hier om het ontwikkelen van een systeem om te controleren of personen een auto mochten leasen. 
+          Het huidige proces moest geautomatiseerd worden, elke stap moest herhaalbaar gedocumenteerd zijn.
         
-         Tech stack: C#, .NET, EventFlow (CQRS + Event sourcing) framework, Blazor
-        + Software developer voor door ontwikkelen van React native app. Hier ging het op aanpassingen in de app en het oplossen van bug's in de mobiele applicaties (IOS en android) en api.
+          Tech stack: C#, .NET, EventFlow (CQRS + Event sourcing) framework, Blazor
+        + Software developer voor het doorontwikkelen van een React Native app. 
+          Hier ging het om aanpassingen in de app en het oplossen van bugs in de mobiele applicaties (iOS en Android) en API.
         
-        Tech stack: React native, Javascript, C#, .NET
+          Tech stack: React Native, Javascript, C#, .NET
         
-        + Software developer voor Openbaar vervoersbedrijf in Amsterdam. In het begin was ik developer voor de doorontwikkeling de website en mobiele applicatie. Daarna werd ik verantwoordlijk voor het migreren en veiliger maken van de bestaande architectuur.
-        Tech stack: C#, .NET, Terraform, Azure, Typescript, Git, CI/CD, React, React native, Docker, JavaScript, Contentful
+        + Software developer voor een openbaar vervoersbedrijf in Amsterdam. In het begin was ik ontwikkelaar voor de doorontwikkeling van de website en mobiele applicatie. 
+          Daarna werd ik verantwoordelijk voor het migreren en beter maken van de bestaande architectuur.
+          Tech stack: C#, .NET, Terraform, Azure, Typescript, Git, CI/CD, Vue.js, React Native, Docker, JavaScript, Contentful
 
 project:
   show: false
