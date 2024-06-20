@@ -110,8 +110,8 @@ experience:
         
         + Technical lead van het "CO2 compensatie calculator" team. Ik was verantwoordelijk voor het doorontwikkelen en het onderhouden van de API en website. 
           Tech stack: C#, .NET, Razor, Azure, Git, CI/CD, Docker, SQL, Elasticsearch/kibana.
-        + Technical lead voor het "Stemmen voor Verkiezingen" project. Ik was verantwoordelijk voor dit greenfield-project met een vraag naar een robuuste oplossing om
-          stemmen te tellen voor meerdere verkiezingen. De klant vroeg naar de meest pragmatische en goedkoop draaiende oplossing. 
+        + Technical lead voor het "Stemmen voor Verkiezingen" project. Ik was verantwoordelijk voor dit greenfield-project met een vraag naar een robuuste oplossing om stemmen te tellen voor meerdere verkiezingen. 
+          De klant vroeg naar de meest pragmatische en goedkoop draaiende oplossing. 
           Tech stack: C#, .NET, PHP (wordpress plugin), Ansible (linux host), Cloudflare.         
 
     - company: Software developer
