@@ -131,7 +131,7 @@ experience:
         + Software developer voor het doorontwikkelen van een React Native app. 
           Hier ging het om aanpassingen in de app en het oplossen van bugs in de mobiele applicaties (iOS en Android) en API.
         
-          Tech stack: React Native, Javascript, C#, .NET
+          Tech stack: React Native, Javascript, C#, .NET, Firebase
         
         + Software developer voor een openbaar vervoersbedrijf in Amsterdam. In het begin was ik ontwikkelaar voor de doorontwikkeling van de website en mobiele applicatie. 
           Daarna werd ik verantwoordelijk voor het migreren en beter maken van de bestaande architectuur.
@@ -139,34 +139,43 @@ experience:
           Tech stack: C#, .NET, Terraform, Azure, Typescript, Git, CI/CD, Vue.js, React Native, Docker, JavaScript, Contentful
 
 project:
-  show: false
-  order: 3
-  title: Projects
+  show: true
+  order: 4
+  title: Projecten
   description: |
-    The project section in a resume is a section where you can highlight any significant projects that you have completed during your education, work experience, or personal endeavors. This section provides a detailed description of your projects that can showcase your skills, abilities, and achievements.
-
-    In this section, you should include the name of the project, the role you played in the project, the duration, the tools and technologies you used, the objective of the project, and the outcome or result achieved. You can also include any relevant metrics or data that demonstrate the impact of the project.
-
-    The project section is especially useful for candidates with limited work experience or those looking to highlight specific skills or accomplishments that may not be apparent in other parts of their resume. It can also be beneficial for candidates in technical or creative fields, where projects play a significant role in showcasing their capabilities.
-
+    Naast werk progrogrameer ik ook nog graag. Dit doe ik wel om echte problemen op te lossen. Dus een ZZP opdracht, of een script om de video analyst (zaalvolleybal).
+    Zijn leven wat makkelijker te maken vind ik leuk om te doen.
   items:
-    - name: Personal project
+    - name: Mijn Zelf Beachen
       link: '#'
-      tags:
-      date: 2015 - 2017
+      tags: Eigen project
+      date: 2023 - Heden
       description: |
-        Personal project description...
-        + First
-        + Second
+        Mijn zelf beachen is een app die de beachvolleybal competities weergeeft op een betere manier dan de bestaande app van de bond.
+        Hierdoor hoeven spelers en ouders niet, 6x te klikken voordat ze kunnen zien wat hun volgende wedstrijd, laatste resultaat of inschrijving is.
+        De app is nu in beta testing met 10-20 gebruikers, voornamelijk eredivisie spelers. Gebouwd als hobby projectje wanneer MAUI uit kwam en draaid nu is productie.
+        Op IOS en Android wil ik je met liefde toevoegen als je een kijkje wilt nemen!
+        + Stack: MAUI (hybrid), Blazor, C#, .NET, Ansible, CI/CD, Auth0 
 
-    - name: OSS project
+    - name: Xamarin sport club app
       link:
-      tags: committer
-      date:
+      tags: zzp
+      date: 2021 - 2022
       description: |
-        OSS project description...
-        + First
-        + Second
+        Deze club wou een comminucatie middel anders dan whatsapp. Hiervoor bestonden whatsapp groups nog niet. 
+        Hiervoor heb ik een eerste opzet met ze gemaakt en uitgedacht hoe en wat ze in de app wouden hebben. 
+        Hierna is het project overgenomen, ivm mijn tijdsbestek.
+        + Stack: C#, .NET, Xamarin Forms
+        
+    - name: Ziekenhuis planningssysteem
+      link:
+      tags: zzp
+      date: "2018" 
+      description: |
+        Mijn eerste project waar ik bloed zweet en tranen heb in gestoken op het te laten werken. 
+        Als snel merkte ik dat een systeem voor het inplannen van doctoren een helse klus was, 
+        en zeker niet zonder risico als het fout ging. Dus heb ik 6 maanden werk weg gegooid en het geld terug gegeven.
+        + Stack: Python, Django
 
 skill:
   show: false
