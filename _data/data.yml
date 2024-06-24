@@ -10,7 +10,7 @@ contact:
   location: Den Haag, Nederland       # location
   email: maxnieuwstad@hotmail.com     # email address
   phone: +31-643244371                # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
-  website: maxnieuwstad.com           # site URL without schema, like example.com, will automatically prepand "https://"
+  website: blog.maxnieuwstad.com           # site URL without schema, like example.com, will automatically prepand "https://"
 
   gender:                  # gender or pronoun
   birthday:                # birthday
@@ -137,7 +137,7 @@ experience:
         + Software developer voor een openbaar vervoersbedrijf in Amsterdam. In het begin was ik ontwikkelaar voor de doorontwikkeling van de website en mobiele applicatie. 
           Daarna werd ik verantwoordelijk voor het migreren en beter maken van de bestaande architectuur.
         
-          Tech stack: C#, .NET, Terraform, Azure, Typescript, Git, CI/CD, Vue.js, React Native, Docker, JavaScript, Contentful
+          Tech stack: C#, .NET, Terraform, Azure, Typescript, Git, CI/CD, Next.js, React Native, Docker, JavaScript, Contentful
         
     - company: Software developer
       link:
@@ -153,13 +153,15 @@ experience:
     - company: Software developer
       link:
       tags: Stage
-      date: "2021"
+      date: "2019"
       role:
-      location: Novasole, Den Haag
+      location: Secura, Amsterdam
       description: |
-        + Stage: Het maken van geautomatiseerde pentest site, voor SOC en SIEM's. 
+        + Het maken van een geautomatiseerde pentest tool (website) voor SOC's en SIEM's. Het testen van de SOC's en SIEM's gebeurde met 
+          aanvalscripts waarvan de parameters aangepast konden worden met de tool. 
+          Met deze tool kon je een aanvalconfiguratie kiezen, de parameters invullen en de aanval uitvoeren met één druk op de knop.
         
-          Stack: Python, Django
+          Stack: Node.js, Python, Django
 
 project:
   show: true
