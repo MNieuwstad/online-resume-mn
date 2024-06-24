@@ -143,38 +143,37 @@ project:
   order: 4
   title: Projecten
   description: |
-    Naast werk progrogrameer ik ook nog graag. Dit doe ik wel om echte problemen op te lossen. Dus een ZZP opdracht, of een script om de video analyst (zaalvolleybal).
-    Zijn leven wat makkelijker te maken vind ik leuk om te doen.
+    Naast werk programmeer ik ook nog graag. Dit doe ik wel om echte problemen op te lossen. Dus een ZZP-opdracht, of een script om de videoanalist (zaalvolleybal).
+    Mensen hun werk wat makkelijker maken of problemen op te lossen daar doe ik het voor!
   items:
     - name: Mijn Zelf Beachen
       link: '#'
       tags: Eigen project
       date: 2023 - Heden
       description: |
-        Mijn zelf beachen is een app die de beachvolleybal competities weergeeft op een betere manier dan de bestaande app van de bond.
+        Mijn zelf beachen is een app die de beachvolleybalcompetities weergeeft op een betere manier dan de bestaande app van de bond.
         Hierdoor hoeven spelers en ouders niet, 6x te klikken voordat ze kunnen zien wat hun volgende wedstrijd, laatste resultaat of inschrijving is.
-        De app is nu in beta testing met 10-20 gebruikers, voornamelijk eredivisie spelers. Gebouwd als hobby projectje wanneer MAUI uit kwam en draaid nu is productie.
-        Op IOS en Android wil ik je met liefde toevoegen als je een kijkje wilt nemen!
-        + Stack: MAUI (hybrid), Blazor, C#, .NET, Ansible, CI/CD, Auth0 
+        De app is nu in bèta-testing met 10-20 gebruikers, voornamelijk eredivisiespelers. Op iOS en Android voeg ik je met liefde toe als je een kijkje wilt nemen!
+        + Stack: MAUI (hybrid), Blazor, C#, .NET, Ansible, CI/CD, Auth0
 
     - name: Xamarin sport club app
       link:
       tags: zzp
-      date: 2021 - 2022
+      date: 2019 - 2020
       description: |
-        Deze club wou een comminucatie middel anders dan whatsapp. Hiervoor bestonden whatsapp groups nog niet. 
-        Hiervoor heb ik een eerste opzet met ze gemaakt en uitgedacht hoe en wat ze in de app wouden hebben. 
+        Deze club wilde een communicatiemiddel anders dan WhatsApp. Hiervoor bestonden WhatsApp-groepen nog niet.
+        Hiervoor heb ik een eerste opzet met ze gemaakt en uitgedacht hoe en wat ze in de app wilden hebben.
         Hierna is het project overgenomen, ivm mijn tijdsbestek.
         + Stack: C#, .NET, Xamarin Forms
-        
-    - name: Ziekenhuis planningssysteem
+
+    - name: Ziekenhuis planningsysteem
       link:
       tags: zzp
-      date: "2018" 
+      date: "2018"
       description: |
-        Mijn eerste project waar ik bloed zweet en tranen heb in gestoken op het te laten werken. 
-        Als snel merkte ik dat een systeem voor het inplannen van doctoren een helse klus was, 
-        en zeker niet zonder risico als het fout ging. Dus heb ik 6 maanden werk weg gegooid en het geld terug gegeven.
+        Mijn eerste project waar ik bloed, zweet en tranen in heb gestoken om het te laten werken.
+        Al snel merkte ik dat een systeem voor het inplannen van dokters een helse klus was, vooral de mitsen en maren,
+        en zeker niet zonder risico als het fout ging. Dus heb ik 6 maanden werk weggegooid en het geld teruggegeven.
         + Stack: Python, Django
 
 skill:
