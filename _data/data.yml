@@ -10,7 +10,7 @@ contact:
   location: Den Haag, Nederland       # location
   email: maxnieuwstad@hotmail.com     # email address
   phone: +31-643244371                # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
-  website: blog.maxnieuwstad.com           # site URL without schema, like example.com, will automatically prepand "https://"
+#  website: blog.maxnieuwstad.com           # site URL without schema, like example.com, will automatically prepand "https://"
 
   gender:                  # gender or pronoun
   birthday:                # birthday
