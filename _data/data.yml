@@ -146,9 +146,10 @@ experience:
       role:
       location: Novasole, Den Haag
       description: |
-        + Software developer voor het verbeteren van de energie voorspelling van gas en electrisiteits verbruik per adres.
+        + Softwareontwikkelaar voor het verbeteren van de energievoorspelling van gas- en elektriciteitsverbruik per adres. 
+          Hierbij kwam een stukje machine learning kijken en de implementatie van de UI in Angular.
           
-          Stack: python, c#, scikit-learn, numpy, jupyter notebook\
+          Stack: Angular, Python, scikit-learn, numpy, jupyter notebook
     - company: Software developer
       link:
       tags: Stage
