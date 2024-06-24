@@ -3,7 +3,7 @@ basic:
   title: Software Developer           # job title
   avatar:
     show: true                       # show or hide avatar
-    path: /assets/images/profile.png # avatar file path
+    path: /assets/images/profile.jpeg # avatar file path
 
 contact:
   # meta
@@ -81,7 +81,7 @@ contact:
 profile:
   show: true
   order: 1
-  title: Profile
+  title: Wie ben ik
   description: |
     Ik ben een software developer met meer dan 3 jaar professionele ervaring en heb met diverse technologieën en gebieden gewerkt. De meeste ervaring heb ik met het Microsoft-ecosysteem.
     Tegenwoordig richt ik me voornamelijk op de backend-kant van softwareontwikkeling, in C# applicaties ontwikkelen. 
