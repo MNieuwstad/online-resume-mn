@@ -84,10 +84,10 @@ profile:
   title: Over mij
   description: |
     Mijn naam is **Max Nieuwstad**. Ik ben actief als software **developer** en **tech lead** en heb met diverse technologieën en gebieden gewerkt.
-    Ik heb aan veel bestaande, nieuwe en uiteenlopende projecten gewerkt. Met diverse plaftorms en talen. 
-    Contact met de klant en gebruiker vind ik belangrijk en leuk, zeker als mijn huidige rol als consultant.
+    Dit waren bestaande, nieuwe en uiteenlopende projecten gewerkt met diverse plaftorms en talen. 
+    Contact met de klant en gebruiker vind ik belangrijk en leuk, zeker in mijn huidige rol als consultant.
     
-    Zit je met een vraag of heb je mij nodig als developer en/of tech lead, **bel me**, **app me** of **mail me**!
+    Zit je met een vraag of heb je mij nodig als developer en/of tech lead, **bel me**, **app me** of **mail mij**!
 
 experience:
   show: true
@@ -109,7 +109,7 @@ experience:
         + Technical lead van het "CO2 compensatie calculator" team. Ik was verantwoordelijk voor het doorontwikkelen en het onderhouden van de API en website. 
           
           Tech stack: C#, .NET, Razor, Azure, Git, CI/CD, Docker, SQL, Elasticsearch/kibana
-        + Technical lead voor het "Verkiezingen API" project. Ik was verantwoordelijk voor dit greenfield-project met een vraag naar een robuuste oplossing om stemmen te tellen voor meerdere verkiezingen. 
+        + Technical lead voor het "Verkiezingen API" project. Ik was verantwoordelijk voor dit project met een vraag naar een robuuste oplossing om stemmen te tellen voor meerdere verkiezingen. 
           De klant vroeg naar de meest pragmatische en goedkoop draaiende oplossing. 
           
           Tech stack: C#, .NET, PHP (wordpress plugin), Ansible (linux host), Cloudflare         
@@ -123,7 +123,7 @@ experience:
       description: |
         + Software developer voor het automatiseren van de auto lease straat, intake en controle. 
           Het ging hier om het ontwikkelen van een systeem om te controleren of personen een auto mochten leasen. 
-          Het huidige proces moest geautomatiseerd worden, elke stap moest herhaalbaar gedocumenteerd zijn.
+          Het huidige proces moest geautomatiseerd worden, elke stap moest herhaalbaar en gedocumenteerd zijn.
         
           Tech stack: C#, .NET, EventFlow (CQRS + Event sourcing) framework, Blazor
         + Software developer voor het doorontwikkelen van een React Native app. 
@@ -165,9 +165,9 @@ project:
   order: 4
   title: Projecten
   description: |
-    Naast mijn werk programmeer graag, vooral als het gaat om het oplossen van echte problemen. 
+    Naast mijn werk programmeer ik graag, vooral als het gaat om het oplossen van echte problemen. 
     Of het nu een ZZP-opdracht is, of een script maken voor de videoanalist (zaalvolleybal). 
-    Ik vind het leuk om mensen te helpen hun werk te vereenvoudigen en problemen op te lossen!
+    Ik vind het leuk om mensen te helpen, hun werk te vereenvoudigen en problemen op te lossen!
   items:
     - name: Mijn Zelf Beachen
       link:
