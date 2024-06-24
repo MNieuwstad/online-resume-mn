@@ -99,7 +99,7 @@ experience:
     - company: Technical lead
       link:
       tags:
-      date: JUN 2022 - heden
+      date: 2022 - heden
       role:
       location: Infi, Amsterdam
       description: |
@@ -117,7 +117,7 @@ experience:
     - company: Software developer
       link:
       tags:
-      date: AUG 2021 - heden
+      date: 2021 - heden
       role:
       location: Infi, Amsterdam
       description: |
@@ -170,7 +170,7 @@ project:
     Ik vind het leuk om mensen te helpen hun werk te vereenvoudigen en problemen op te lossen!
   items:
     - name: Mijn Zelf Beachen
-      link: '#'
+      link:
       tags: Eigen project
       date: 2023 - Heden
       description: |
