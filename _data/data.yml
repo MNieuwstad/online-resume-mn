@@ -83,14 +83,14 @@ profile:
   order: 1
   title: Over mij
   description: |
-    Mijn naam is Max Nieuwstad. Ik ben actief als software **developer** en **tech lead** en heb met diverse technologieën en gebieden gewerkt.
+    Mijn naam is **Max Nieuwstad**. Ik ben actief als software **developer** en **tech lead** en heb met diverse technologieën en gebieden gewerkt.
     Ik heb aan veel bestaande, nieuwe en uiteenlopende projecten gewerkt. Met diverse plaftorms en talen. 
     Contact met de klant en gebruiker vind ik belangrijk en leuk, zeker als mijn huidige rol als consultant.
     
     Daar naast speel ik ook volleybal. Eerst besteedde ik vijf avonden in de week aan deze sport, zowel in de zaal als op het strand, op eredivisieniveau. 
     Onlangs ben ik echter overgestapt naar slechts twee avonden beachvolleybal. Nu is dan nog genoeg tijd om beide passies 100% te beoefenen!
     
-    Zit je met een vraag of heb je mij nodig als developer en/of teach lead, bel me, app me of mail me!
+    Zit je met een vraag of heb je mij nodig als developer en/of tech lead, **bel me**, **app me** of **mail me**!
 
 experience:
   show: true
@@ -107,15 +107,15 @@ experience:
       location: Infi, Amsterdam
       description: |
         Als Technical lead ben ik verantwoordelijk voor het gehele applicatielandschap. In juni 2022 werd ik TL voor de doorontwikkeling van de CO2-calculator. 
-        Hierna kreeg was ik verantwoordelijk om het "Stemmen voor Verkiezingen" team te leiden.
+        Ook ben ik verantwoordelijk voor om het "Verkiezingen API" project.
         
         + Technical lead van het "CO2 compensatie calculator" team. Ik was verantwoordelijk voor het doorontwikkelen en het onderhouden van de API en website. 
           
-          Tech stack: C#, .NET, Razor, Azure, Git, CI/CD, Docker, SQL, Elasticsearch/kibana.
-        + Technical lead voor het "Stemmen voor Verkiezingen" project. Ik was verantwoordelijk voor dit greenfield-project met een vraag naar een robuuste oplossing om stemmen te tellen voor meerdere verkiezingen. 
+          Tech stack: C#, .NET, Razor, Azure, Git, CI/CD, Docker, SQL, Elasticsearch/kibana
+        + Technical lead voor het "Verkiezingen API" project. Ik was verantwoordelijk voor dit greenfield-project met een vraag naar een robuuste oplossing om stemmen te tellen voor meerdere verkiezingen. 
           De klant vroeg naar de meest pragmatische en goedkoop draaiende oplossing. 
           
-          Tech stack: C#, .NET, PHP (wordpress plugin), Ansible (linux host), Cloudflare.         
+          Tech stack: C#, .NET, PHP (wordpress plugin), Ansible (linux host), Cloudflare         
 
     - company: Software developer
       link:
@@ -270,7 +270,7 @@ education:
       link: 
       date: 2010 - 2016
       major: Natuur en Techniek
-      degree: Hava
+      degree: Havo
       description: |
         + Met het extra vak informatica. Ervaring: PHP, SQL
 
