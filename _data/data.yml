@@ -81,15 +81,16 @@ contact:
 profile:
   show: true
   order: 1
-  title: Wie ben ik
+  title: Over mij
   description: |
-    Ik ben een software developer met meer dan 3 jaar professionele ervaring en heb met diverse technologieën en gebieden gewerkt. De meeste ervaring heb ik met het Microsoft-ecosysteem.
-    Tegenwoordig richt ik me voornamelijk op de backend-kant van softwareontwikkeling, in C# applicaties ontwikkelen. 
-    Toch ben ik zeker niet onbekend met de front-end en zou mezelf beschrijven als een full-stack ontwikkelaar.
-    Ik werk nu als consultant en ben veel op kantoor. Want ik vind klantcontact belangrijk en leuk.
+    Mijn naam is Max Nieuwstad. Ik ben actief als software **developer** en **tech lead** en heb met diverse technologieën en gebieden gewerkt.
+    Ik heb aan veel bestaande, nieuwe en uiteenlopende projecten gewerkt. Met diverse plaftorms en talen. 
+    Contact met de klant en gebruiker vind ik belangrijk en leuk, zeker als mijn huidige rol als consultant.
     
-    Naast het "spelen" als software-engineer speel ik ook volleybal. Eerst besteedde ik vijf avonden in de week aan deze sport, zowel in de zaal als op het strand, op eredivisieniveau. 
+    Daar naast speel ik ook volleybal. Eerst besteedde ik vijf avonden in de week aan deze sport, zowel in de zaal als op het strand, op eredivisieniveau. 
     Onlangs ben ik echter overgestapt naar slechts twee avonden beachvolleybal. Nu is dan nog genoeg tijd om beide passies 100% te beoefenen!
+    
+    Zit je met een vraag of heb je mij nodig als developer en/of teach lead, bel me, app me of mail me!
 
 experience:
   show: true
@@ -143,27 +144,28 @@ project:
   order: 4
   title: Projecten
   description: |
-    Naast werk programmeer ik ook nog graag. Dit doe ik wel om echte problemen op te lossen. Dus een ZZP-opdracht, of een script om de videoanalist (zaalvolleybal).
-    Mensen hun werk wat makkelijker maken of problemen op te lossen daar doe ik het voor!
+    Naast mijn werk programmeer graag, vooral als het gaat om het oplossen van echte problemen. 
+    Of het nu een ZZP-opdracht is, of een script maken voor de videoanalist (zaalvolleybal). 
+    Ik vind het leuk om mensen te helpen hun werk te vereenvoudigen en problemen op te lossen!
   items:
     - name: Mijn Zelf Beachen
       link: '#'
       tags: Eigen project
       date: 2023 - Heden
       description: |
-        Mijn zelf beachen is een app die de beachvolleybalcompetities weergeeft op een betere manier dan de bestaande app van de bond.
-        Hierdoor hoeven spelers en ouders niet, 6x te klikken voordat ze kunnen zien wat hun volgende wedstrijd, laatste resultaat of inschrijving is.
-        De app is nu in bèta-testing met 10-20 gebruikers, voornamelijk eredivisiespelers. Op iOS en Android voeg ik je met liefde toe als je een kijkje wilt nemen!
-        + Stack: MAUI (hybrid), Blazor, C#, .NET, Ansible, CI/CD, Auth0
+        Mijn Zelf Beachen is een app die de beachvolleybalcompetities op een betere manier presenteert dan de huidige app. 
+        Dit bespaart spelers en ouders het vele klikken om hun volgende wedstrijd, laatste resultaat of inschrijving te zien. 
+        De app, momenteel in bèta-testing met 10-15 gebruikers (voornamelijk eredivisiespelers). 
+        Ik voeg je graag toe als tester op iOS en/of Android als je geïnteresseerd bent!
+        + Stack: MAUI (hybride), Blazor, C#, .NET, Ansible, CI/CD, Auth0
 
     - name: Xamarin sport club app
       link:
       tags: zzp
       date: 2019 - 2020
       description: |
-        Deze club wilde een communicatiemiddel anders dan WhatsApp. Hiervoor bestonden WhatsApp-groepen nog niet.
-        Hiervoor heb ik een eerste opzet met ze gemaakt en uitgedacht hoe en wat ze in de app wilden hebben.
-        Hierna is het project overgenomen, ivm mijn tijdsbestek.
+        Deze club zocht een communicatiemiddel anders dan WhatsApp, dat toen nog geen groepen ondersteunde. 
+        Ik heb een eerste opzet met hen gemaakt en uitgewerkt wat ze in de app wilden zien. Het project is daarna overgenomen vanwege mijn tijdsbestek.
         + Stack: C#, .NET, Xamarin Forms
 
     - name: Ziekenhuis planningsysteem
@@ -171,9 +173,8 @@ project:
       tags: zzp
       date: "2018"
       description: |
-        Mijn eerste project waar ik bloed, zweet en tranen in heb gestoken om het te laten werken.
-        Al snel merkte ik dat een systeem voor het inplannen van dokters een helse klus was, vooral de mitsen en maren,
-        en zeker niet zonder risico als het fout ging. Dus heb ik 6 maanden werk weggegooid en het geld teruggegeven.
+        Mijn eerste project waar ik veel moeite voor heb gedaan om het te laten werken. Al snel merkte ik dat het plannen van dokters een enorme uitdaging was, 
+        vooral met de vele haken en ogen, en risicovol als het misging. Daarom heb ik na 6 maanden het werk gestaakt en het geld teruggegeven.
         + Stack: Python, Django
 
 skill:
@@ -418,24 +419,13 @@ reference:
     It's important to choose references who can provide a positive and comprehensive evaluation of your work. Avoid listing family members or friends as references, and instead focus on individuals who can speak to your professional abilities and accomplishments.
 
   items:
-    - name: Foo One
+    - name: Rutger van Willigen
       link: '#'
-      title: Backend Developer
-      institution: Second Company
-      address: 1234 Example St, XXX, XY 11111
-      email: foo.one@example.com
-      phone: 111-222-333
+      title: Directeur
+      institution: Infi amsterdam
       description: |
-        Foo One was my colleague in Second Company.
+        De Directeur van Infi Amsterdam en we hebben samen gewerkt op een aantal projecten.
 
-    - name: Bar Two
-      link:
-      title: Professor
-      institution: Example University
-      address: 4321 Example St, YYY, XY 22222
-      email: bar.two@example.com
-      phone: 444-555-666
-      description: |
-        Bar Two was my advisor at Example University.
+
 
 close: <strong>Sorry, my resume has been hidden.</strong>
