@@ -1,4 +1,4 @@
-<h1 align="center">online-resume</h1>
+<h1 align="center">Online CV van Max Nieuwstad</h1>
 
 <p align="center">
   <a href="https://github.com/tarrex/online-resume/blob/master/LICENSE"><img src="https://img.shields.io/github/license/tarrex/online-resume?style=flat-square" alt="GitHub License"></a>
@@ -14,7 +14,7 @@
   </a>
 </p>
 
-<h4 align="center">A minimalist Jekyll theme for your resume.</h4>
+<h4 align="center">Max Nieuwstad - CV 2024</h4>
 
 ---
 
